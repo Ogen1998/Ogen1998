@@ -1,8 +1,10 @@
-<h2>👋 Hi, I’m Augustine</h2>
+<h2>👋 Hi there! Welcome to my page</h2>
+
+My name is <b>Augustine Al-Zebary</b>, i am 25 years old and live in Sweden. I am a very curious person that loves to learn new things!
 
 - 👀 I’m interested in computers, programming and cooking tasty food 🍔
 - 🌱 I’m currently studying full time to become a frontend developer 
-- 💞️ I’m looking to collaborate on educational projects
+- 💞️ I’m looking to collaborate on educational projects and extend my technical knowledge
 - 📫 How to reach me? Feel free to visit my linkedin profile or send me a DM!
 
 [![Linkedin: Augustine](https://img.shields.io/badge/-Augustine-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/augustine-al-zebary-1094a5163/)]([https://www.linkedin.com/in/thaianebraga/](https://www.linkedin.com/in/augustine-al-zebary-1094a5163/))
