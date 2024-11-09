@@ -1,6 +1,6 @@
 <h2>👋 Hi there! Welcome to my page</h2>
 
-My name is <b>Augustine Al-Zebary</b>, i am 25 years old and live in Sweden. I am a very curious person that loves to learn new things!
+My name is <b>Augustine Al-Zebary</b>, i am 26 years old and live in Sweden. I am a very curious person that loves to learn new things!
 
 - 👀 I’m interested in computers, programming and cooking tasty food 🍔
 - 🌱 I’m currently studying full time to become a frontend developer 
